@@ -1,10 +1,10 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil do Juniorelias1999 😁
 
 <div>
 <a href="https://github.com/juniorelias1999">
 ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  <div>
-  <a href="https://github.com/juniorelias1999">
+  <a href="https://cadudevemdobro.com/juniorelias1999">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juniorelias1999&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorelias1999&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
@@ -16,7 +16,7 @@
 
  <br>
 
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Bem vindo a meu perfil do github!
 
 <div> 
   <a href="" target="_blank"><img src="=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
